@@ -3,6 +3,11 @@ vagrant-dnie
 
 Puesta en marcha rápida de un navegador Firefox con todo lo necesario para utilizar el DNI electrónico.
 
+Vagrant y Chef se encargan de descargar, instalar y aprovisionar una máquina virtual de VirtualBox basada en Ubuntu Precise Pangolin.
+
+Se trata de un sistema minimalista con un gestor de ventanas ligero (OpenBox) y un Firefox con todos los certificados y módulos necesarios para utilizar el DNIe.
+
+
 Instalación
 -----------
 
